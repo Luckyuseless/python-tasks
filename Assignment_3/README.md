@@ -12,4 +12,4 @@
   
   o   Sine of the number (in radians)
   
-4.   Displays the calculated results.
+3.   Displays the calculated results.
